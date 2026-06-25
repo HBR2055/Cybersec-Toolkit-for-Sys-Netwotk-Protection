@@ -1,4 +1,3 @@
-# Cybersec-Toolkit-for-Sys-Netwotk-Protection
 # Cybersec Toolkit for System & Network Protection
 
 ## Overview
